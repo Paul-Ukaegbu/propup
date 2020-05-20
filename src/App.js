@@ -33,7 +33,7 @@ function App() {
          firstName = "Maria"
          lastName = "Smith"
          age = {62}
-         hairColor = "Brown"
+         hairColor = "red"
         />
     </div>
   </div>
